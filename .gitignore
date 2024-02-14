@@ -8,6 +8,8 @@
 /.firebase
 
 /environments/*
+/environments/environment.development.ts
+/environments/environment.ts
 
 # Node
 /node_modules
