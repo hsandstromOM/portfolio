@@ -11,6 +11,9 @@
 /environments/environment.development.ts
 /environments/environment.ts
 
+./src/environments/*
+./src/environments/
+
 # Node
 /node_modules
 npm-debug.log
